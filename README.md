@@ -1,2 +1,2 @@
-# mytype
+# mytype-js
 My own typed plugin
